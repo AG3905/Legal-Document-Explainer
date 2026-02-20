@@ -1,10 +1,6 @@
 # AI Legal Document Explainer
 
 **AI Legal Document Explainer** is a web application that allows users to upload legal documents (like contracts, lease agreements, or terms & conditions) and get a simplified explanation of the content using AI. It also highlights important clauses, risks, and allows you to ask specific questions about the document...
-
-
-## Try : https://ai-legal-document-explainer-sand.vercel.app
---
  
 ## 🌟 Features
 
