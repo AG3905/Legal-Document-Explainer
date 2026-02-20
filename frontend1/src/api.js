@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const API_BASE = "https://keen-intuition-document-explainer.up.railway.app";
-//"http://localhost:8000"; // Change to your backend URL in production
+const API_BASE =
+  process.env.REACT_APP_API_BASE || "http://localhost:8000";
 
 export const uploadPDF = async (file) => {
   const formData = new FormData();
