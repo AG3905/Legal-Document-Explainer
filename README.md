@@ -112,7 +112,7 @@ uvicorn app:app --reload
 
 ## 💻 Screenshots
 
-### summary and other parts
+<!-- ### summary and other parts -->
 <!-- <img width="1570" height="846" alt="image" src="https://github.com/user-attachments/assets/46669b0a-a1db-4500-bc5f-57cfd29830b3" />
 
 ### chatting part
